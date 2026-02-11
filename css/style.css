@@ -208,8 +208,7 @@ a {
   line-height: 1.5; }
 
 .site-service-item {
-  background: #333;
-  padding: 30px; }
+  background: #D9CFC4;  padding: 30px; }
   .site-service-item .icon {
     display: block;
     margin-bottom: 50px;
@@ -583,7 +582,7 @@ background-color: #181915; }
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #edf0f2;
+  color: #bac964;
   border-radius: 50%;
   font-size: 20px;
   position: fixed;
