@@ -184,7 +184,7 @@ a {
     color: rgba(255, 255, 255, 0.5); }
 
 .site-section {
-  padding: 5em 0; }
+  padding: 1em 0; }
 
 .section-heading {
   margin-bottom: 30px;
@@ -582,7 +582,7 @@ background-color: #181915; }
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #bac964;
+  color: #1b1b1a;
   border-radius: 50%;
   font-size: 20px;
   position: fixed;
